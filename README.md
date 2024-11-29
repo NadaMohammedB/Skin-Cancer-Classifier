@@ -5,11 +5,8 @@
 - [Techniques Used](#techniques-used)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
 
----
 
 ## Introduction
 
@@ -17,7 +14,6 @@ This project explores the use of digital image processing and machine learning t
 
 The project is based on the public dataset titled **"Skin Cancer: Malignant vs. Benign"** and combines state-of-the-art methodologies to enhance image quality, extract meaningful features, and classify the data.
 
----
 
 ## Techniques Used
 
@@ -38,7 +34,6 @@ The project is based on the public dataset titled **"Skin Cancer: Malignant vs. 
   - Random Forest
   - Support Vector Machines (SVM)
 
----
 
 ## Dependencies
 
@@ -54,7 +49,6 @@ To run this project, ensure you have the following dependencies installed:
 - **Seaborn**: For enhanced data visualizations (optional but recommended).
 - **TensorFlow/Keras**: For using the pre-trained VGG16 model.
 
-  ---
 
   ## Results
 
