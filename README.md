@@ -37,10 +37,12 @@ The project is based on the public dataset titled **"Skin Cancer: Malignant vs. 
 
 ## Project Structure
 
+```bash
 ├── LogisticRegressionproject.ipynb   # Implementation using Logistic Regression
 ├── RandomForestproject.ipynb         # Implementation using Random Forest
 ├── SVMproject.ipynb                  # Implementation using SVM
 ├── README.md                         # Project documentation
+```
 
 
 ## Dependencies
