@@ -35,6 +35,15 @@ The project is based on the public dataset titled **"Skin Cancer: Malignant vs. 
   - Support Vector Machines (SVM)
 
 
+## Project Structure
+
+```bash
+├── LogisticRegressionproject.ipynb   # Implementation using Logistic Regression
+├── RandomForestproject.ipynb         # Implementation using Random Forest
+├── SVMproject.ipynb                  # Implementation using SVM
+├── README.md                         # Project documentation
+
+
 ## Dependencies
 
 To run this project, ensure you have the following dependencies installed:
