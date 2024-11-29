@@ -50,6 +50,6 @@ To run this project, ensure you have the following dependencies installed:
 - **TensorFlow/Keras**: For using the pre-trained VGG16 model.
 
 
-  ## Results
+## Results
 
 This project showcases the effectiveness of combining image processing techniques with machine learning for medical image classification. Detailed visualizations and metrics are included in each notebook to evaluate model performance.
