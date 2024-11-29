@@ -10,7 +10,7 @@
 
 ## Introduction
 
-This project explores the use of digital image processing and machine learning to classify skin lesions as either malignant or benign. Leveraging advanced image enhancement techniques, feature extraction methods, and machine learning algorithms, the project aims to improve the detection accuracy of skin cancer.
+This project explores the use of digital image processing and machine learning to classify skin lesions as either malignant or benign. Leveraging advanced image enhancement techniques, feature extraction methods, and machine learning algorithms.
 
 The project is based on the public dataset titled **"Skin Cancer: Malignant vs. Benign"** and combines state-of-the-art methodologies to enhance image quality, extract meaningful features, and classify the data.
 
