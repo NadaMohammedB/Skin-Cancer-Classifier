@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Techniques Used](#techniques-used)
-- [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Results](#results)
 
@@ -33,16 +32,6 @@ The project is based on the public dataset titled **"Skin Cancer: Malignant vs. 
   - Logistic Regression
   - Random Forest
   - Support Vector Machines (SVM)
-
-
-## Project Structure
-
-```bash
-├── LogisticRegressionproject.ipynb   # Implementation using Logistic Regression
-├── RandomForestproject.ipynb         # Implementation using Random Forest
-├── SVMproject.ipynb                  # Implementation using SVM
-├── README.md                         # Project documentation
-```
 
 
 ## Dependencies
